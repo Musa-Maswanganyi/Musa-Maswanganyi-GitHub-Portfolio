@@ -2,7 +2,7 @@
 
 🎓 **Diploma in ICT (Communication Networks) – Third Year Student**  
 🌐 **Aspiring Cybersecurity and Network Support Professional**  
-## 📫 Contact Me
+## 📫 Contact Details:
 - 📧 Email: 230019978@mycput.ac.za
 - 🔗 LinkedIn: [Musa Maswanganyi](https://www.linkedin.com/in/musa-maswanganyi)
 - 💻 GitHub: [github.com/Musa-Maswanganyi](https://github.com/Musa-Maswanganyi)
@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-I’m **Musa Maswanganyi**, a dedicated and passionate ICT student with hands-on experience in **network engineering, technical support, and cybersecurity fundamentals**.  
-This digital portfolio showcases my **professional readiness**, **interview preparation**, and **business communication** skills developed through the **Work Readiness Training** program.  
+I’m **Musa Maswanganyi**, a dedicated and passionate ICT student with hands-on experience in network engineering, technical support, and cybersecurity fundamentals.  
+This digital portfolio showcases my professional readiness, interview preparation, and business communication skills developed through the Work Readiness Training program.  
 
 ---
 
@@ -25,21 +25,6 @@ This digital portfolio showcases my **professional readiness**, **interview prep
 
 ---
 
-# 💼 GitHub Digital Portfolio – Musa Maswanganyi
-
-🎓 **Diploma in ICT (Communication Networks) – Third Year Student**  
-🌐 **Aspiring Cybersecurity and Network Support Professional**  
-📍 South Africa | 📫 [LinkedIn](https://www.linkedin.com/in/musa-maswanganyi)
-
----
-
-## 👨‍💻 About Me
-
-I’m **Musa Maswanganyi**, a passionate and motivated ICT student with practical experience in networking, computer systems, and cybersecurity fundamentals. 
-This portfolio showcases my growth throughout the Work Readiness Training Programme, where I developed communication, professionalism, teamwork, and technical confidence.
-
----
-
 ## 🗣️ Business Communication
 
 ### 🖼️ Evidence
@@ -47,8 +32,8 @@ This portfolio showcases my growth throughout the Work Readiness Training Progra
 
 ### Reflection
 <br/>At the start of the course, I struggled to express my thoughts clearly and professionally in formal settings. I realized that while my technical communication was solid, my business communication needed improvement.<br/>
-<br/>My goal was to improve how I write emails, reports, and communicate in meetings. I attended training sessions on workplace communication and practiced using a professional tone. <br/> 
-<br/>I started applying what I learned by writing structured reports and professional emails for assignments. I also sought feedback from lecturers to refine my tone and style.<br/>  
+<br/>My goal was to improve how I write emails, reports, and communicate in meetings. I attended training sessions on workplace communication and practiced using a professional tone. <br/>
+<br/>I started applying what I learned by writing structured reports and professional emails for assignments. I also sought feedback from lecturers to refine my tone and style.<br/> 
 <br/>Now I can confidently communicate with clarity and professionalism. I am able to adjust my language for different audiences, which helps me work effectively with colleagues and clients.<br/>
 
 ---
@@ -59,17 +44,15 @@ This portfolio showcases my growth throughout the Work Readiness Training Progra
 <img src="Interview Skills.png" width="500" alt="Interview Skills Evidence"/>
 
 ###  Reflection
-<br/>Before training, interviews made me anxious, and I often struggled to explain my strengths confidently. I realized that preparation and structure were key to performing better.<br/>  
-<br/>My task was to improve my interview confidence and develop the ability to present my experience clearly. I studied common ICT interview questions and practiced answering them aloud. I used chat gpt to help ask me interview questions to better prepare myself.  <br/>
-<br/>I took part in mock interviews where I applied professional etiquette and used clear examples to describe my skills. I practiced eye contact, tone, and posture during these sessions.<br/>  
+<br/>Before training, interviews made me anxious, and I often struggled to explain my strengths confidently. I realized that preparation and structure were key to performing better.<br/>
+<br/>My task was to improve my interview confidence and develop the ability to present my experience clearly. I studied common ICT interview questions and practiced answering them aloud. I used Chat gpt to help ask me interview questions to better prepare myself.  <br/>
+<br/>I took part in mock interviews where I applied professional etiquette and used clear examples to describe my skills. I practiced eye contact, tone, and posture during these sessions. <br/>
 <br/>After practicing repeatedly, I became more confident and calm during interviews. I now communicate my experience effectively and can respond to both technical and personal questions with confidence.<br/>
 
 ---
 
 ## 🎥 Mock Interview
 
-### 🖼️ Evidence
-<img src="Screenshot 2025-10-17 211827.png" width="500" alt="Mock Interview Evidence"/>
 
 🎬 **[Watch My Mock Interview](https://github.com/wil-it2025/cv-tutorial-Musa-Maswanganyi/blob/main/compressvideo.mp4)**
 
