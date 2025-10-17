@@ -29,6 +29,8 @@ This digital portfolio showcases my professional readiness, interview preparatio
 
 ### 🖼️ Evidence
 <img src="business communication.png" width="500" alt="Business Communication Evidence"/>
+### 🖼️ 
+<img src="email.png" width="500" alt="Business Communication Evidence"/>
 
 ### Reflection
 <br/>At the start of the course, I struggled to express my thoughts clearly and professionally in formal settings. I realized that while my technical communication was solid, my business communication needed improvement.<br/>
