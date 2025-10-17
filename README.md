@@ -21,159 +21,99 @@ This digital portfolio showcases my **professional readiness**, **interview prep
 - [🎥 Mock Interview](#mock-interview)
 - [🌐 Professional Networking](#professional-networking)
 - [🤝 Workplace Etiquette](#workplace-etiquette)
-- [📁 Evidence](#evidence)
 - [🧠 Professional Growth Summary](#professional-growth-summary)
+
+---
+
+# 💼 GitHub Digital Portfolio – Musa Maswanganyi
+
+🎓 **Diploma in ICT (Communication Networks) – Third Year Student**  
+🌐 **Aspiring Cybersecurity and Network Support Professional**  
+📍 South Africa | 📫 [LinkedIn](https://www.linkedin.com/in/musa-maswanganyi)
+
+---
+
+## 👨‍💻 About Me
+
+I’m **Musa Maswanganyi**, a passionate and motivated ICT student with practical experience in networking, computer systems, and cybersecurity fundamentals. 
+This portfolio showcases my growth throughout the Work Readiness Training Programme, where I developed communication, professionalism, teamwork, and technical confidence.
 
 ---
 
 ## 🗣️ Business Communication
 
-### 🧾 Evidence
-- Completed modules on verbal, non-verbal, and written communication.  
-- Practiced writing formal business emails, reports, and meeting summaries.  
-- Learned to communicate effectively in multicultural professional environments.
+### 🖼️ Evidence
+<img src="business communication.png" width="500" alt="Business Communication Evidence"/>
 
-### 💬 Reflection (STAR)
-
-**S – Situation:**  
-At the start of the course, I struggled to maintain a professional tone in written communication, especially in emails and reports.  
-
-**T – Task:**  
-I needed to improve my professional communication to clearly express technical ideas in the workplace.  
-
-**A – Action:**  
-I participated in communication activities, practiced structured report writing, and used templates to create professional emails. I also received peer and lecturer feedback to refine my tone and clarity.  
-
-**R – Result:**  
-I can now communicate clearly and confidently, ensuring my writing is professional, concise, and audience-appropriate. I’ve applied these skills in technical documentation and workplace correspondence.  
+### Reflection
+<br/>At the start of the course, I struggled to express my thoughts clearly and professionally in formal settings. I realized that while my technical communication was solid, my business communication needed improvement.<br/>
+<br/>My goal was to improve how I write emails, reports, and communicate in meetings. I attended training sessions on workplace communication and practiced using a professional tone. <br/> 
+<br/>I started applying what I learned by writing structured reports and professional emails for assignments. I also sought feedback from lecturers to refine my tone and style.<br/>  
+<br/>Now I can confidently communicate with clarity and professionalism. I am able to adjust my language for different audiences, which helps me work effectively with colleagues and clients.<br/>
 
 ---
 
 ## 🎤 Interview Skills
 
-### 🧾 Evidence
-- Completed mock and practice interview sessions.  
-- Studied STAR-based answering techniques and non-verbal presentation skills.  
-- Prepared personal introduction and common interview question responses.
+### 🖼️ Evidence
+<img src="Interview Skills.png" width="500" alt="Interview Skills Evidence"/>
 
-### 💬 Reflection (STAR)
-
-**S – Situation:**  
-Before the training, I often felt nervous and unsure of how to respond during interviews.  
-
-**T – Task:**  
-I needed to improve my ability to answer questions confidently and structure my responses using the STAR method.  
-
-**A – Action:**  
-I attended interview skills workshops, practiced mock interviews with peers, and learned how to communicate my strengths and experiences effectively.  
-
-**R – Result:**  
-I became more confident and polished in my delivery. I now use the STAR technique naturally and can express my technical knowledge and teamwork experiences professionally.  
+###  Reflection
+<br/>Before training, interviews made me anxious, and I often struggled to explain my strengths confidently. I realized that preparation and structure were key to performing better.<br/>  
+<br/>My task was to improve my interview confidence and develop the ability to present my experience clearly. I studied common ICT interview questions and practiced answering them aloud. I used chat gpt to help ask me interview questions to better prepare myself.  <br/>
+<br/>I took part in mock interviews where I applied professional etiquette and used clear examples to describe my skills. I practiced eye contact, tone, and posture during these sessions.<br/>  
+<br/>After practicing repeatedly, I became more confident and calm during interviews. I now communicate my experience effectively and can respond to both technical and personal questions with confidence.<br/>
 
 ---
 
 ## 🎥 Mock Interview
 
-🎬 **[Watch My Mock Interview](https://github.com/wil-it2025/cv-tutorial-Musa-Maswanganyi/blob/main/compressvideo.mp4)**  
+### 🖼️ Evidence
+<img src="Screenshot 2025-10-17 211827.png" width="500" alt="Mock Interview Evidence"/>
 
-### 🧾 Evidence
-- Recorded and submitted a professional mock interview demonstrating readiness for workplace interviews.  
-- Practiced body language, tone, and eye contact.  
+🎬 **[Watch My Mock Interview](https://github.com/wil-it2025/cv-tutorial-Musa-Maswanganyi/blob/main/compressvideo.mp4)**
 
-### 💬 Reflection (STAR)
-
-**S – Situation:**  
-During the mock interview, I wanted to test my ability to apply interview strategies in a real-world scenario.  
-
-**T – Task:**  
-I was required to prepare and record a professional interview that reflects my job readiness and presentation skills.  
-
-**A – Action:**  
-I researched common ICT interview questions, rehearsed using the STAR framework, and recorded multiple takes to improve my tone, posture, and confidence.  
-
-**R – Result:**  
-The final interview showcased my professional growth and communication skills. It highlighted my readiness to engage confidently with potential employers and express my ICT knowledge effectively.  
+###  Reflection
+<br/>When recording my mock interview, I was initially nervous about being on camera and maintaining professionalism. I wanted to demonstrate my communication and confidence skills effectively.  <br/>
+<br/>My goal was to conduct a professional interview that reflected what I learned about preparation and presentation. I researched possible interview questions and practiced multiple times before recording. <br/> 
+<br/>During the mock interview, I spoke clearly, maintained eye contact, and used structured responses to highlight my strengths. I also reviewed my recording to identify areas of improvement.  <br/>
+<br/>This process improved my self-awareness and presentation skills. I now feel prepared for real interviews and can confidently showcase my technical and interpersonal abilities.<br/>
 
 ---
 
 ## 🌐 Professional Networking
 
-### 🧾 Evidence
-- Created and optimized a LinkedIn profile.  
-- Connected with ICT professionals and joined relevant tech communities.  
-- Engaged in discussions to expand my professional visibility.
+### 🖼️ Evidence
+<img src="professional networking.png" width="500" alt="Professional Networking Evidence"/>
 
-📎 **LinkedIn:** [Musa Maswanganyi](https://www.linkedin.com/in/musa-maswanganyi)
-
-### 💬 Reflection (STAR)
-
-**S – Situation:**  
-I had limited online presence and few professional contacts in the ICT industry.  
-
-**T – Task:**  
-Develop a professional digital profile to network with peers and potential employers.  
-
-**A – Action:**  
-I built a LinkedIn profile highlighting my projects, education, and skills. I followed IT professionals, engaged in posts, and joined career groups to expand my visibility.  
-
-**R – Result:**  
-I now have a strong online presence that showcases my achievements. Networking has opened up opportunities for mentorship and exposure to industry trends.  
+###  Reflection
+<br/>Before this training, I didn’t fully understand how networking could influence my career growth. I often focused only on technical skills and ignored the importance of building connections.  <br/>
+<br/>I aimed to create a professional online presence that would help me engage with people in the ICT field. I decided to create and optimize a LinkedIn profile showcasing my academic and technical achievements.  <br/>
+<br/>I followed industry professionals, joined relevant groups, and interacted in discussions to grow my network. I also started sharing updates about my projects and achievements online. <br/> 
+<br/>Through networking, I have connected with professionals who inspire me and share valuable career advice. This experience taught me that career growth is not only about skills but also about relationships and reputation.<br/>
 
 ---
 
 ## 🤝 Workplace Etiquette
 
-### 🧾 Evidence
-- Completed workplace professionalism and ethics training.  
-- Learned about workplace culture, dress code, communication, and time management.  
-- Participated in teamwork and leadership exercises.  
+### 🖼️ Evidence
+<img src="workplace etiquette.png" width="500" alt="Workplace Etiquette Evidence"/>
 
-### 💬 Reflection (STAR)
-
-**S – Situation:**  
-I was unsure how to navigate workplace expectations, especially in formal environments.  
-
-**T – Task:**  
-Understand and practice professional conduct, teamwork, and workplace communication.  
-
-**A – Action:**  
-Through class activities and videos, I learned about professionalism, time management, and respecting workplace diversity. I practiced punctuality and accountability during group projects.  
-
-**R – Result:**  
-I developed a strong sense of professionalism and respect for workplace standards. I now understand how to maintain integrity, teamwork, and effective collaboration in any ICT setting.  
+###  Reflection
+<br/>At first, I underestimated how important etiquette and behavior are in a professional setting. I focused mainly on technical performance instead of teamwork and conduct.  <br/>
+<br/>I needed to develop professional habits that make me a dependable and respectful employee. I joined workshops on professional behavior, time management, and workplace culture.  <br/>
+<br/>I practiced professionalism by being punctual, dressing appropriately, and showing respect during group work. I also observed how others behaved in simulated work environments.  <br/>
+<br/>Now I can maintain proper etiquette in professional environments. I understand how to handle conflict respectfully, communicate clearly, and contribute positively to a team.<br/>
 
 ---
 
-## 🧠 Professional Growth Summary
 
-Throughout this work readiness training, I have grown from being uncertain about workplace expectations to becoming a confident, job-ready professional.  
+##  Final Reflection
 
-I have improved my:
-- 🗣️ **Communication skills**  
-- 🎤 **Interview confidence**  
-- 🌐 **Professional networking abilities**  
-- 🤝 **Workplace etiquette and professionalism**
-
-These skills have prepared me for **real-world ICT environments**, where both technical ability and professional behaviour are equally essential. I am confident that I can represent myself — and my institution — with professionalism and excellence.
-
----
-
-## 📁 Evidence
-
-**🗣️ Business Communication**  
-<img src="Business_Communication.png" width="500" alt="Business Communication Evidence"/>
-
-**🎤 Interview Skills**  
-<img src="Interview_Skills.png" width="500" alt="Interview Skills Evidence"/>
-
-**🎥 Mock Interview**  
-<img src="Mock_Interview.png" width="500" alt="Mock Interview Evidence"/>
-
-**🌐 Professional Networking**  
-<img src="Professional_Networking.png" width="500" alt="Professional Networking Evidence"/>
-
-**🤝 Workplace Etiquette**  
-<img src="Workplace_Etiquette.png" width="500" alt="Workplace Etiquette Evidence"/>
+<br/>The Work Readiness Programme has prepared me for both professional and personal growth. 
+It taught me that success in ICT requires more than just technical skill — it also requires communication, professionalism, and confidence.
+I have developed the ability to work well in teams, communicate effectively, and behave professionally in any environment.
+This experience has given me the foundation to begin my career confidently and adapt to new challenges with a professional mindset.<br/>
 
 ---
 
