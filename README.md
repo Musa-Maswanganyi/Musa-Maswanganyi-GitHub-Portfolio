@@ -29,7 +29,7 @@ This digital portfolio showcases my professional readiness, interview preparatio
 
 ### 🖼️ Evidence
 <img src="business communication.png" width="500" alt="Business Communication Evidence"/>
-### 🖼️ 
+🖼️ 
 <img src="email.png" width="500" alt="Business Communication Evidence"/>
 
 ### Reflection
